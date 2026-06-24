@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Radwa Shaaban!
+# 👋 Hello, I'm Reham Shaaban!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C%2B%2B+%26+Systems+Developer;Tech+Content+Creator" alt="Typing SVG" />
